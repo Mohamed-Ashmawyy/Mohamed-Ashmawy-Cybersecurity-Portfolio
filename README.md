@@ -25,3 +25,7 @@ npm run build
 ```
 
 The portfolio includes selected penetration-testing labs, a healthcare web/API security assessment, Huawei firewall hardening, security automation work, experience, credentials, and contact links.
+
+## Add the profile photo
+
+Upload one image named `mohamed-ashmawy.jpg` to `client/public/images/`. The Hero already points to this exact path and will automatically replace the terminal placeholder after the next GitHub Pages deployment.
